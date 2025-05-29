@@ -37,15 +37,6 @@ A web-based College Fee Payment Management System developed using **JSP**, **Ser
 
 ---
 
-## 🔧 Installation
-
-###  Clone the Repository
-```bash
-git clone https://github.com/Karthikrajaurs/CollegeFeeApp.git
-cd CollegeFeeApp
-
----
-
 ### 1. **Home Page**
 - **File**: `index.jsp`
 - **Screenshot**:  
